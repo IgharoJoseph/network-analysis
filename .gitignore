@@ -1,0 +1,10 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+data/
+output/
+outputs/
+*.csv
+*.gpkg
+*.geojson
+*.xlsx
